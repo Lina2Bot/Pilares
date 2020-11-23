@@ -1,0 +1,98 @@
+tarea1
+
+¿Qué es linux?
+
+Linux® es un sistema operativo (OS por sus siglas en inglés) open source (código abierto, que hace referencia al open source 
+software diseñado para ser accequiible al público en general donde todos pueden ver, modificar y distribuir el código de la forma 
+que consideren conveniente) y una plataforma de infraestructura de tecnología de la información (TI). Fue creado como un 
+pasatiempo por Linus Torvalds, mientras él estaba en la universidad, esto como una alternativa gratuita, del sistema operativo 
+MINIX, el cual esta basado en los principios y el diseño de Unix. Desde ese entonces Linux es el SO con la base más grande de 
+usuarios, el más usado en servidores de Internet disponibles públicamente y el más usado en las 500 principales supercomputadoras 
+más rápidas.
+
+Entonces se puede decir que a principios de los 90, el proyecto GNU arrancó el desarrollo de un sistema operativo tipo Unix usando 
+el kernel Hurd y todo el conjunto de aplicaciones desarrolladas por ellos mismos. A pesar de esto, el diseño era ambicioso para 
+este kernel por lo que retrazó su salida y fue aquí cuando la popularidad de Linux juegó un papel determinante, pues el proyecto 
+GNU decidío usarlo como reemplazo de Hurd mientras terminaban su desarrollo. Se combinaron las aplicaciones de GNU con el kernel 
+de Linux y se dio origen a lo que hoy se conoce como sistema operativo GNU/Linux.
+
+Cabe mencionar que un sistema operativo es el conjunto de programas el cual gestionan los recursos de hardware de un sistema 
+informático y ofrecen servicios comunes al resto de las aplicaciones, ya que un ordenador sin un sistema operativo es solo un 
+montón de hojalata y componentes electrónicos inútiles. Es decir, el sistema operativo puede ser un solo programa pero 
+generalmente está conformado por un conjunto y entre ellos el más importante es el kernel. Técnicamente hablando, Linux es un 
+kernel de código abierto, inspirado en Minix y encargado de gestionar el hardware de un ordenador. Es parte fundamental de un 
+sistema operativo tipo Unix pero por sí sólo no es un sistema operativo.
+
+
+Qué es kernel
+
+El núcleo o kernel es la parte central de un SO y es el responsable de llevar a cabo toda la comunicación segura 
+entre el software y el hardware del ordenador, es decir, gestionar el acceso al hardware del ordenador y también de realizar una 
+gestión de la memoria RAM. Algunas de las funciones más importantes son: la administración de la memoria, del tiempo de procesador 
+y del acceso a los periféricos del sistema, por ejemplo. Además, un ordenador ejecuta muchos programas a la vez y el kernel es el 
+encargado de decidir qué programa hace uso de qué recurso o dispositivo y durante cuánto tiempo.
+
+Debemos tener en cuenta que UNIX es un sistema operativo, lo que quiere decir es que es una colección de programas que ejecutan 
+otros programas en una computadora, este nació en los Laboratorios Bell de AT&T en 1969, desarrollado por Ken Thompson y Dennis 
+Ritchie (este último también fue el creador del lenguaje de programación C).
+
+El sistema provee un serie de herramientas en donde cada una realiza una función limitada y bien definida, además utiliza un sistema de archivos unificado como medio de comunicación y un lenguaje de comandos llamado «shell» el cual permite combinar esas 
+herramientas para realizar acciones complejas.
+
+Distribuciones
+
+Debian
+Ubuntu
+Linux Mint 
+MX Linux 
+Magaia
+Solus
+Deepin
+Red hat 
+Fedora
+CentOS
+Nitrux
+SUSE  
+Manjaro
+Kali
+OpenSUSE
+Gentoo
+CentOS
+Antergos
+Sabayon
+Arch Linux 
+SlackWare
+Pear 
+Elementary OS
+Zorin OS 
+Tails   
+Ipredia OS
+Qubes OS 
+Whonix
+Discreete Linux 
+TENS
+Tiny Core 
+Linux lite
+Bodhi Linux 
+Puppy Linux 
+Peppermint OS 
+Ubuntu Budgie
+Lubuntu
+Xubuntu
+LXLE
+Antix
+Point Linux 
+SliTaz
+SparkyLinux
+Porteus
+Slax 
+
+
+Fuentes:
+https://www.redhat.com/es/topics/linux
+https://www.redhat.com/es/topics/open-source/what-is-open-source
+https://www.profesionalreview.com/2018/01/04/que-es-el-kernel-y-como-funciona/
+https://hipertextual.com/archivo/2014/05/que-es-unix/
+https://hipertextual.com/archivo/2014/06/linux-sistema-operativo/
+https://ed.team/blog/10-distribuciones-linux-mas-usadas
+https://www.adslzone.net/noticias/operadores/estrenos-directos-movistar-plus-2020/
